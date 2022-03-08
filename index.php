@@ -36,13 +36,13 @@ supportsCssVars() || alert("Please view this demo in a modern browser that suppo
 					<div class="grid__item pos-10"><div class="grid__item-img" style="background-image:url(./img/img10.jpg);" class="hover"></div></div>
 				</div>
                 <h2 class="content__title no-select">
-					<span> Nấm 🍄 </span>
+					<span> Nấm Ơi 🍄 </span>
 				</h2>
 				<h2 class="content__title no-select">
 					<span class="content__title-sub">Chúc bạn tui 8/3 ngày càng xinh xẻo nha :3</span>
 				</h2>
 				<h2 class="content__title no-select">
-					<span class="content__title-sub2">Sau lời chúc này mọi điều tốt đẹp sẽ đến với m nha 🥳</span>
+					<span class="content__title-sub2">Sau lời chúc này mọi điều tốt đẹp sẽ đến với m nè 🥳</span>
 				</h2>
 				<h2 class="content__title no-select">
 					<span class = "content__title-te">Trần Anh Hào</span>
